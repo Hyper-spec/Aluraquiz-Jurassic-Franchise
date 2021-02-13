@@ -1,0 +1,152 @@
+{
+    "bg": "https://images7.alphacoders.com/592/thumb-1920-592106.jpg",
+    "logo": "https://th.bing.com/th/id/Rbd3be680a0e64f0399c1f60a855cd6fc?rik=xO0b0fQzADHOvA&riu=http%3a%2f%2fwww.vrse-vr.com%2fassets%2fimages%2flogo_jw.png&ehk=dZTdsC%2fG2OU09BgZJHim0wH5GNEbIvtWyObR8PWj0Lg%3d&risl=&pid=ImgRaw",
+    "title": "Jurassic Park/World quiz",
+    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/mDNEDddbuWoStJdgex/giphy.gif",
+        "title": "Em que ano se passa o primeiro filme?",
+        "description": "Essa é pra aquecer",
+        "answer": 2,
+        "alternatives": [
+          "1987",
+          "1975",
+          "1993",
+          "2001"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/USg8LHkOVqwkhLPQSC/giphy.gif",
+        "title": "Existem quantas ilhas na franquia?",
+        "description": "Owned by Ingen",
+        "answer": 1,
+        "alternatives": [
+          "8 ilhas",
+          "6 ilhas",
+          "2 ilhas",
+          "4 ilhas"
+        ]
+      },
+      {
+        "image":"https://media.giphy.com/media/STqjxbQLbNhzJhoJf8/giphy.gif",
+        "title": "A Rexy foi criada na Ilha Nublar?",
+        "description": "Contemplem o caos!",
+        "answer": 2,
+        "alternatives": [
+          "Sim!",
+          "Não, ela foi criada na Ilha Matanceros, seu local de origem.",
+          "Não, ela foi criada na Ilha Sorna.",
+          "Não, ela foi criada na sede da Ingen, em Palo Alto, CA."
+        ]
+      },
+      {
+        "image":"https://media.giphy.com/media/26FmRWU0f3QtP5zTW/giphy.gif",
+        "title": "Quando ocorreu o desastre em San Digeo?",
+        "description": "We make your future",
+        "answer": 1,
+        "alternatives": [
+          "1993",
+          "1997",
+          "2015",
+          "1995"
+        ]
+      },
+      {
+        "image":"https://media.giphy.com/media/Oo4sdi4PeqO2c/giphy.gif",
+        "title": "Após a falência iminente, quem adquiriu a Ingen?",
+        "description": "Mom is very angry",
+        "answer": 3,
+        "alternatives": [
+          "Dr. Henry Wu",
+          "Dr. Ian Malcolm",
+          "Benjamin Lockwood",
+          "Simon Masrani"
+        ]
+      },
+      {
+        "image":"https://media.giphy.com/media/TgC7eAwDDA6XrrXQsZ/giphy.gif",
+        "title": "Onde ocorriam os experimentos e recriação dos dinossauros?",
+        "description": "Onde o caos se iniciou.",
+        "answer": 2,
+        "alternatives": [
+          "Isla Pena",
+          "Isla Nublar",
+          "Isla Sorna",
+          "Isla Matanceros"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/521PIH5Nslx3Tbzr3E/giphy.gif",
+        "title": "Quem roubou os embriões dos espécimes pré-históricos no laboratório de genética?",
+        "description": "Não é a toa que está extinto!",
+        "answer": 0,
+        "alternatives": [
+          "Dennis Nedry",
+          "Lewis Dodgson",
+          "Robert Muldoon",
+          "Dr. Henry Wu"
+        ]
+
+
+      },
+      {
+        "image": "https://media.giphy.com/media/1zkpr73f5CI33JO06e/giphy.gif",
+        "title": "Quais destes dinossauros não residem na Isla Nublar?",
+        "description": "The Chaos Theory",
+        "answer": 3,
+        "alternatives": [
+          "T-Rex",
+          "Galinimus",
+          "Triceratops",
+          "Espinossauro"
+        ]
+
+      },
+      {
+        "image": "https://media.giphy.com/media/TFxYl2lYJEu9kY1lEb/giphy.gif",
+        "title": "Quando ocorreu o despertar do Monte Sibo?",
+        "description": "The fall of dinosaurs",
+        "answer": 2,
+        "alternatives": [
+          "2015",
+          "2020",
+          "2018",
+          "2006"
+        ]
+
+      },
+      {
+        "image": "https://media.giphy.com/media/hu1TLAaubiak9S4GT6/giphy.gif",
+        "title": "Qual foi a prmeira atração apresentada no Jurassic Park?",
+        "description": "O que eles tem aí, o King Kong?",
+        "answer": 0,
+        "alternatives": [
+          "Cerca dos Dilofossauros",
+          "Cerca do Tiranossauro",
+          "Cerca dos Velociraptors",
+          "Cerca dos Braquiossauros"
+        ]
+
+      }
+
+
+
+    ],
+    "external": [
+        "https://aluraquiz.italocarlo06.vercel.app/",
+        "https://aluraquiz-harrypotter.karinarovani.vercel.app/"
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#0d47a1",
+        "secondary": "#00a8ff",
+        "light-gray": "#b2bec3",
+        "mainBg": "#171B35",
+        "contrastText": "#FFFFFF",
+        "wrong": "rgb(234, 32, 39)",
+        "success": "#4cd137"
+      },
+      "borderRadius": "4px"
+    }
+  }
